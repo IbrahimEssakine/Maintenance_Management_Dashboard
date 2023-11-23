@@ -1,7 +1,4 @@
-# Maintenance Management Dashboard
-Efficiently plan and manage maintenance tasks with this maintenance management dashboard. This tool helps you streamline maintenance scheduling and track maintenance plans effectively. Built using Excel and VBA, it simplifies maintenance management, making it a powerful resource for maintenance professionals.
-
-# DIGITALIZATION PROPOSALS
+# PART 1 : DIGITALIZATION PROPOSALS
 # I. Use of Augmented Reality (AR) in Maintenance
 
 Augmented Reality (AR) is an innovative technology finding increasing applications in various industrial sectors, including maintenance. In the context of SBGS, the use of AR in maintenance aims to revolutionize how technicians interact with equipment and machinery. This technology combines the real world with virtual elements, creating an interactive and immersive experience.
@@ -76,7 +73,7 @@ After completing a task, the technician has the capability to provide feedback b
 
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/f24cdbad-90d0-4594-b7c2-afcf42d18bf8)
 
-## PROJET DE RENOUVELLEMENT DU TABLEAU DE BORD EXCEL DE MAINTENANCE
+# PART 2 :  PROJET DE RENOUVELLEMENT DU TABLEAU DE BORD EXCEL DE MAINTENANCE
 # Introduction:
 Maintenance plays a crucial role in the industry, directly contributing to operational continuity, worker safety, and equipment sustainability. This report delves into the "Maintenance Dashboard Excel Renewal Project" at SBGS. The project aims to modernize the central maintenance management tool using VBA (Visual Basic for Applications) in Excel.
 
