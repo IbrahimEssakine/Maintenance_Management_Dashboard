@@ -1,8 +1,7 @@
-# Maintenance_Management_Dashboard
+# Maintenance Management Dashboard
 Efficiently plan and manage maintenance tasks with this maintenance management dashboard. This tool helps you streamline maintenance scheduling and track maintenance plans effectively. Built using Excel and VBA, it simplifies maintenance management, making it a powerful resource for maintenance professionals.
 
 # DIGITALIZATION PROPOSALS
-
 # I. Use of Augmented Reality (AR) in Maintenance
 
 Augmented Reality (AR) is an innovative technology finding increasing applications in various industrial sectors, including maintenance. In the context of SBGS, the use of AR in maintenance aims to revolutionize how technicians interact with equipment and machinery. This technology combines the real world with virtual elements, creating an interactive and immersive experience.
@@ -14,12 +13,12 @@ The AR maintenance application at SBGS follows a multi-step process to facilitat
 # Machine Detection:
 The AR application activates automatically on the maintenance site, using the smartphone or tablet camera to scan the environment and detect machines through specific visual markers (QR codes) or pre-installed RFID tags.
 
-![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/9bca48bc-6271-4096-89c1-6be7898c6951)
+![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/f6a17455-bf52-44c7-980d-a62b547eb73c)
 
 # Procedure Selection: 
 Once machines are detected, the application allows the technician to select the specific machine and browse a list of available maintenance procedures.
 
-![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/f6a17455-bf52-44c7-980d-a62b547eb73c)
+![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/9bca48bc-6271-4096-89c1-6be7898c6951)
 
 # Visualization of Information and Procedures: 
 After selecting the procedure, the AR application displays relevant information in real-time. This may include detailed 3D schematics of the machine, specific components to inspect, lubrication points, repair instructions, and more.
