@@ -50,23 +50,29 @@ The operation of the mobile task management application at SBGS is designed to b
 
 # Account Login:
 When the user opens the application, they must log in to their account. The type of account (Maintenance or Manager) determines the available features and interfaces.
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/812069ea-20b0-49e1-bc8d-e878e2de6ecf)
 
 # Manager Interface:
 If the user logs in as a manager, they access an interface that allows them to manage maintenance tasks globally. The available options include:
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/f13dcfef-a02d-4c79-bbdc-176b752895cb)
 
 # Task Assignment: 
 The manager can assign tasks to technicians by filling in all necessary fields, such as task description, deadline, line, etc. They can also assign specific tasks to particular technicians.
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/99d0c765-3d96-4d54-b95e-a2db02df59c8)
 
 # Task Visualization:
 The manager can view all ongoing and upcoming tasks, sorting them by priority,
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/c1725678-ed8d-405b-90fd-58701108c95f)
 
 # Adding Feedback: 
 After completing a task, the technician has the capability to provide feedback by including a photo, comments, and the status of the task (Completed or Not Completed).
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/f24cdbad-90d0-4594-b7c2-afcf42d18bf8)
+
 ## PROJET DE RENOUVELLEMENT DU TABLEAU DE BORD EXCEL DE MAINTENANCE
 # Introduction:
 Maintenance plays a crucial role in the industry, directly contributing to operational continuity, worker safety, and equipment sustainability. This report delves into the "Maintenance Dashboard Excel Renewal Project" at SBGS. The project aims to modernize the central maintenance management tool using VBA (Visual Basic for Applications) in Excel.
@@ -86,10 +92,12 @@ The renewed Maintenance Dashboard is organized into three main objects: "Maintai
 
 # Class Diagram:
 A class diagram illustrates the structure and relationships between key classes in the application. Classes include Maintainer, Plan, and Task, crucial for task management, activity planning, and communication.
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/a02f4afe-21ef-4c6d-a70d-89edae6fc545)
 
 # 1. Maintainer Object:
 The Maintainer object is a vital component of the Maintenance Dashboard, encompassing essential information about maintenance technicians. The interface allows for the addition of new maintainers, creating a comprehensive list with details on completed tasks and current availability. A summary graph visually depicts each maintainer's task contributions.
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/ede76005-123b-4b30-b22c-220e8c93a0cb)
 Interface Design Prototype
 [image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/fccd0b9a-87a3-45e7-95b9-fd44b9f2c6c0)
@@ -101,6 +109,7 @@ Summary Chart
 
 # 2. Plan Object:
 The Plan object involves entering information such as plan name, associated label, and production line. A list and graphs visualize the distribution and frequency of maintenance plans, aiding better understanding and management.
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/13fdaf97-0f5c-48b4-9d86-8ef1f2abebfc)
 Prototype of the Services Interface
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/5be3ad05-51e8-4c1b-9c2f-8e181423a80b)
@@ -114,6 +123,7 @@ Frequency Chart of Plans
 
 # 3. Task Object:
 Tasks are added by selecting a maintainer, maintenance plan, and scheduled date. The interface distinguishes between scheduled and completed tasks, simplifying tracking and management.
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/a9f0a3fb-3f21-4936-84b4-f349b0c7a3a5)
 Prototype of the Tasks Interface
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/23351eb9-178b-45fa-998d-b9cda1bf2d35)
@@ -123,6 +133,7 @@ Circular Chart of Task Status
 
 # 4. Main Page (Dashboard):
 The main dashboard provides a comprehensive view of maintenance activities, featuring a month and year selector, quick access buttons to manage maintainers, plans, and tasks, and a synchronized calendar for efficient task management.
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/e40ffa96-c88c-4e7f-b6e0-2d0add1f5324)
 Dashboard Prototype
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/94448549-516d-43e4-acaa-2c05ce51c1dd)
