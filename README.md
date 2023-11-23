@@ -13,6 +13,7 @@ The AR maintenance application at SBGS follows a multi-step process to facilitat
 
 # Machine Detection:
 The AR application activates automatically on the maintenance site, using the smartphone or tablet camera to scan the environment and detect machines through specific visual markers (QR codes) or pre-installed RFID tags.
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/9bca48bc-6271-4096-89c1-6be7898c6951)
 
 # Procedure Selection: 
@@ -21,12 +22,13 @@ Once machines are detected, the application allows the technician to select the 
 
 # Visualization of Information and Procedures: 
 After selecting the procedure, the AR application displays relevant information in real-time. This may include detailed 3D schematics of the machine, specific components to inspect, lubrication points, repair instructions, and more.
-![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/24e01690-f106-41e4-94cf-b1507447bfc4)
+
+![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/5e617b53-f272-4114-a1f2-d31cb80b3c61)
 
 # Data Backup:
 Throughout the maintenance process, the AR application automatically records each action taken by the technician. This documentation is saved in a secure database for later analysis and processing. This data includes photos or videos of the machine, technician notes, and maintenance-related information.
 
-![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/5e617b53-f272-4114-a1f2-d31cb80b3c61)
+![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/24e01690-f106-41e4-94cf-b1507447bfc4)
 
 ## Limitations of Mobile AR Applications for Maintenance
 
@@ -39,6 +41,7 @@ Data security and privacy issues arise from using personal smartphones, exposing
 Considering the limitations of mobile AR applications, the future may involve smart glasses as a promising alternative for maintenance technicians. Smart glasses offer advantages such as a hands-free interface, enhanced data security, and seamless integration into existing maintenance processes.
 
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/c463992e-b358-4456-94cc-6610fff0415f)
+
 Maintenance Technician Using AR Glasses
 
 # II. Task Management with a Mobile Application
@@ -99,44 +102,69 @@ A class diagram illustrates the structure and relationships between key classes 
 The Maintainer object is a vital component of the Maintenance Dashboard, encompassing essential information about maintenance technicians. The interface allows for the addition of new maintainers, creating a comprehensive list with details on completed tasks and current availability. A summary graph visually depicts each maintainer's task contributions.
 
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/ede76005-123b-4b30-b22c-220e8c93a0cb)
+
 Interface Design Prototype
+
 [image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/fccd0b9a-87a3-45e7-95b9-fd44b9f2c6c0)
+
 Interface for Adding New Maintainers
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/3c51a4a1-54fa-4038-af3d-ce42031300cf)
+
 Maintainers List Interface!
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/33582078-c65d-4eb7-a1a5-e418986f4146)
+
 Summary Chart
 
 # 2. Plan Object:
 The Plan object involves entering information such as plan name, associated label, and production line. A list and graphs visualize the distribution and frequency of maintenance plans, aiding better understanding and management.
 
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/13fdaf97-0f5c-48b4-9d86-8ef1f2abebfc)
+
 Prototype of the Services Interface
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/5be3ad05-51e8-4c1b-9c2f-8e181423a80b)
+
 Interface for Adding New Plans
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/0f41bf4e-8a92-4531-a646-fbdd0d3ec1c4)
+
 List of Plans Interface
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/724ba463-c2cd-47f8-a845-8eb5101b47ff)
+
 Distribution Chart of Plan Types
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/9e7eb968-0487-4aa6-8ea1-7dd31d88fde8)
+
 Frequency Chart of Plans
 
 # 3. Task Object:
 Tasks are added by selecting a maintainer, maintenance plan, and scheduled date. The interface distinguishes between scheduled and completed tasks, simplifying tracking and management.
 
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/a9f0a3fb-3f21-4936-84b4-f349b0c7a3a5)
+
 Prototype of the Tasks Interface
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/23351eb9-178b-45fa-998d-b9cda1bf2d35)
+
 Interface for Adding New Tasks
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/091a4425-11f5-4cf5-a783-08db5a5bbc8e)
+
 Circular Chart of Task Status
 
 # 4. Main Page (Dashboard):
 The main dashboard provides a comprehensive view of maintenance activities, featuring a month and year selector, quick access buttons to manage maintainers, plans, and tasks, and a synchronized calendar for efficient task management.
 
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/e40ffa96-c88c-4e7f-b6e0-2d0add1f5324)
+
 Dashboard Prototype
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/94448549-516d-43e4-acaa-2c05ce51c1dd)
+
 Implementation of Dashboard in Excel
 
 # General Conclusion:
