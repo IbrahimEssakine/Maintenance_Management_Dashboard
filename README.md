@@ -18,6 +18,7 @@ The AR application activates automatically on the maintenance site, using the sm
 
 # Procedure Selection: 
 Once machines are detected, the application allows the technician to select the specific machine and browse a list of available maintenance procedures.
+
 ![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/f6a17455-bf52-44c7-980d-a62b547eb73c)
 
 # Visualization of Information and Procedures: 
@@ -105,7 +106,7 @@ The Maintainer object is a vital component of the Maintenance Dashboard, encompa
 
 Interface Design Prototype
 
-[image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/fccd0b9a-87a3-45e7-95b9-fd44b9f2c6c0)
+![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/fccd0b9a-87a3-45e7-95b9-fd44b9f2c6c0)
 
 Interface for Adding New Maintainers
 
