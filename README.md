@@ -13,12 +13,12 @@ The AR maintenance application at SBGS follows a multi-step process to facilitat
 # Machine Detection:
 The AR application activates automatically on the maintenance site, using the smartphone or tablet camera to scan the environment and detect machines through specific visual markers (QR codes) or pre-installed RFID tags.
 
-![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/f6a17455-bf52-44c7-980d-a62b547eb73c)
+![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/a5a03801-7764-406c-a1fb-e9fd04bf9cd9)
 
 # Procedure Selection: 
 Once machines are detected, the application allows the technician to select the specific machine and browse a list of available maintenance procedures.
 
-![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/9bca48bc-6271-4096-89c1-6be7898c6951)
+![image](https://github.com/IbrahimEssakine/Maintenance_Management_Dashboard/assets/103626975/a6616800-ea7b-4fa8-82e3-17886789acb0)
 
 # Visualization of Information and Procedures: 
 After selecting the procedure, the AR application displays relevant information in real-time. This may include detailed 3D schematics of the machine, specific components to inspect, lubrication points, repair instructions, and more.
